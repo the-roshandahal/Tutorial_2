@@ -1,0 +1,6 @@
+div.floating{
+    float: left;
+}
+div.floating p{
+    text-align: center;
+}
